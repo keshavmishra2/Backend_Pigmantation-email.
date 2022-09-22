@@ -1,0 +1,24 @@
+{
+  "name": "Backend_Pigmantation-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavmishra2/Backend_Pigmantation-email..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavmishra2/Backend_Pigmantation-email./issues"
+  },
+  "homepage": "https://github.com/keshavmishra2/Backend_Pigmantation-email.#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
+}
